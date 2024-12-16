@@ -5,7 +5,7 @@ export default function Hero() {
     <section id="home" className="min-h-screen flex items-center justify-center bg-black text-white pt-16">
       <div className="container mx-auto px-4 text-center">
         <h1 className="text-4xl md:text-6xl font-bold mb-6">
-          Crafting Coffee, Music, and Mixology to Perfection
+          Crafting Coffee, Dj, and Mixology to Perfection
         </h1>
         <p className="text-xl text-gray-400 mb-8 max-w-2xl mx-auto">
           Elevating experiences through the art of coffee, the rhythm of music, 
