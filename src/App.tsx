@@ -16,7 +16,7 @@ function App() {
         <Contact />
       </main>
       <footer className="bg-black text-gray-400 py-8 text-center">
-        <p>&copy; {new Date().getFullYear()} CRAFT. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Manji. All rights reserved.</p>
       </footer>
     </div>
   );
